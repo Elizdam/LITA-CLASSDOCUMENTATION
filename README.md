@@ -9,5 +9,5 @@
 
 ### Tools used.
 -Microsoft excel for data cleaning,analysis and visualisation.
--SQL-Structured query language for querying of data.
--Gihub for portfolio building
+-SQL-Structured query language for querying of data
+-
