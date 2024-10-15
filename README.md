@@ -8,6 +8,9 @@
 ### Data sources
 
 ### Tools used.
-- Microsoft Excel for data cleaning,analysis and visualisation.
+- Microsoft Excel [download here](https://www. microsoft.com)
+    1. For data cleaning
+    2. For analysis
+    3. For data visualization
 - SQL-Structured query language for querying of data
 - Github for portfolio building
