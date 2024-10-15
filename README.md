@@ -8,6 +8,6 @@
 ### Data sources
 
 ### Tools used.
--Microsoft excel for data cleaning,analysis and visualisation.
+-Microsoft Excel for data cleaning,analysis and visualisation.
 -SQL-Structured query language for querying of data
 -
