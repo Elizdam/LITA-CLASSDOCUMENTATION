@@ -48,3 +48,5 @@ This Data Anayyss project aim to generate insight into the sales perforance of t
 ### Data Visualization
 
 ![Bar chat](https://github.com/user-attachments/assets/15179cde-e571-45e7-86e5-577a74feb79e)
+
+
