@@ -44,3 +44,5 @@ This Data Anayyss project aim to generate insight into the sales perforance of t
   SELECT  * FROM TABLE 1
   WHERE COCNDITION =TRUE
   ```
+
+### Data Visualization
