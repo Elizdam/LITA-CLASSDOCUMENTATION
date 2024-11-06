@@ -22,7 +22,7 @@ This Data Anayyss project aim to generate insight into the sales perforance of t
 - Github for portfolio building
 
   ### Data Cleaning and preparations
-  In the iniial phase of the data cening and preparations ,we perform the following actios
+  In the intiial phase of the data cleaning and preparations ,we perform the following actions
   1. Data loading and inpection
   2. Handling missing variables
   3. Data cleaning and formatting
