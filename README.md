@@ -30,7 +30,7 @@ This Data Anayyss project aim to generate insight into the sales perforance of t
 
 
 
- ### Expoiratory Data analysis
+ ### Exploratory Data analysis
  ---
   EDA involvedd the exploiring of the data to answer some quetsions about the Data as:,
 - What is the overall sales trend?
